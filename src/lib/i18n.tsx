@@ -83,7 +83,7 @@ const translations: Record<Lang, Dict> = {
     "founder.milan.personality": "Rustig, analytisch en betrouwbaar",
 
     "founder.tijn.role": "Co-founder & Full-stack Developer",
-    "founder.tijn.short": "Bouwt schaalbare systemen en strakke interfaces van frontend tot backend."
+    "founder.tijn.short": "Bouwt schaalbare systemen en strakke interfaces van frontend tot backend.",
     "founder.tijn.long":
       "Tijn bouwt van frontend tot backend. Hij combineert strak design met solide techniek en zorgt dat alles intuïtief aanvoelt.",
     "founder.tijn.skills": "Full-stack development, UI design, API integratie, prototyping",

@@ -275,6 +275,23 @@ const translations: Record<Lang, Dict> = {
     "cookie.analyticsDesc": "Anonymous usage insight.",
     "cookie.marketing": "Marketing",
     "cookie.marketingDesc": "For targeted communication.",
+
+    "about.value.quality.title": "Quality first",
+    "about.value.quality.desc": "Tested, scalable and maintainable code — no shortcuts.",
+    "about.value.craft.title": "Craftsmanship",
+    "about.value.craft.desc": "Pixel-perfect design with attention to every detail.",
+    "about.value.clarity.title": "Clear communication",
+    "about.value.clarity.desc": "Short lines, honest updates and no jargon.",
+
+    "doing.eyebrow": "What we do",
+    "doing.title": "From idea to live product",
+    "doing.subtitle": "We work in clear steps — so you always know where things stand.",
+    "doing.build.title": "Build",
+    "doing.build.desc": "Modern websites, automations, bots and custom software, made to measure.",
+    "doing.design.title": "Design",
+    "doing.design.desc": "Clean, accessible interfaces that convert and stay memorable.",
+    "doing.ship.title": "Ship",
+    "doing.ship.desc": "Launched fast, monitored well and ready to scale with you.",
   },
 };
 

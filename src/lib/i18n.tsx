@@ -131,6 +131,23 @@ const translations: Record<Lang, Dict> = {
     "cookie.analyticsDesc": "Anoniem inzicht in gebruik.",
     "cookie.marketing": "Marketing",
     "cookie.marketingDesc": "Voor gerichte communicatie.",
+
+    "about.value.quality.title": "Kwaliteit voorop",
+    "about.value.quality.desc": "Code die getest, schaalbaar en onderhoudbaar is — geen shortcuts.",
+    "about.value.craft.title": "Vakmanschap",
+    "about.value.craft.desc": "Pixel-perfect design met aandacht voor elk detail.",
+    "about.value.clarity.title": "Heldere communicatie",
+    "about.value.clarity.desc": "Korte lijnen, eerlijke updates en geen vakjargon.",
+
+    "doing.eyebrow": "Wat doen wij",
+    "doing.title": "Van idee tot live product",
+    "doing.subtitle": "We werken in heldere stappen — zodat je altijd weet waar je staat.",
+    "doing.build.title": "Bouwen",
+    "doing.build.desc": "Moderne websites, automatiseringen, bots en custom software op maat.",
+    "doing.design.title": "Ontwerpen",
+    "doing.design.desc": "Strakke, toegankelijke interfaces die converteren en blijven hangen.",
+    "doing.ship.title": "Lanceren",
+    "doing.ship.desc": "Snel live, goed gemonitord en klaar om mee te groeien.",
   },
   en: {
     "nav.home": "Home",
@@ -258,6 +275,23 @@ const translations: Record<Lang, Dict> = {
     "cookie.analyticsDesc": "Anonymous usage insight.",
     "cookie.marketing": "Marketing",
     "cookie.marketingDesc": "For targeted communication.",
+
+    "about.value.quality.title": "Quality first",
+    "about.value.quality.desc": "Tested, scalable and maintainable code — no shortcuts.",
+    "about.value.craft.title": "Craftsmanship",
+    "about.value.craft.desc": "Pixel-perfect design with attention to every detail.",
+    "about.value.clarity.title": "Clear communication",
+    "about.value.clarity.desc": "Short lines, honest updates and no jargon.",
+
+    "doing.eyebrow": "What we do",
+    "doing.title": "From idea to live product",
+    "doing.subtitle": "We work in clear steps — so you always know where things stand.",
+    "doing.build.title": "Build",
+    "doing.build.desc": "Modern websites, automations, bots and custom software, made to measure.",
+    "doing.design.title": "Design",
+    "doing.design.desc": "Clean, accessible interfaces that convert and stay memorable.",
+    "doing.ship.title": "Ship",
+    "doing.ship.desc": "Launched fast, monitored well and ready to scale with you.",
   },
 };
 
